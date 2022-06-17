@@ -1,0 +1,27 @@
+{
+  "name": "ricknmorty",
+  "version": "1.0.0",
+  "description": "rick y morty tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PimpTaco/Proyecto_JSA.git"
+  },
+  "keywords": [
+    "rick",
+    "morty"
+  ],
+  "author": "choli.exe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PimpTaco/Proyecto_JSA/issues"
+  },
+  "homepage": "https://github.com/PimpTaco/Proyecto_JSA#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
